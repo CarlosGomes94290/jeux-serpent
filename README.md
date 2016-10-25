@@ -1,1 +1,1 @@
-# jeux-serpent
+# jeux-serpent en javascript
